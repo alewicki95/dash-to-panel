@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2026-02-01 10:55+0100\n"
-"PO-Revision-Date: 2026-02-01 10:55+0100\n"
+"POT-Creation-Date: 2026-05-10 20:18+0200\n"
+"PO-Revision-Date: 2026-05-10 20:19+0200\n"
 "Last-Translator: Adam Lewicki <a.lewicki95@gmail.com>\n"
 "Language-Team: \n"
 "Language: pl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
 "|| n%100>14) ? 1 : 2);\n"
-"X-Generator: Poedit 3.8\n"
+"X-Generator: Poedit 3.9\n"
 "X-Poedit-Basepath: dash-to-panel-master\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -940,6 +940,13 @@ msgstr ""
 msgid "Font weight of application titles"
 msgstr ""
 
+#: ui/SettingsAbout.ui:77
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+"\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+
 #: schemas/org.gnome.shell.extensions.dash-to-panel.gschema.xml:651
 msgid ""
 "When the applications are ungrouped, this defines font weight of application "
@@ -1727,12 +1734,12 @@ msgstr ""
 msgid "Installed extension version"
 msgstr ""
 
-#: src/appIcons.js:1929 src/appIcons.js:1940 ui/BoxMiddleClickOptions.ui:33
+#: src/appIcons.js:1928 src/appIcons.js:1939 ui/BoxMiddleClickOptions.ui:33
 #: ui/BoxMiddleClickOptions.ui:62 ui/BoxMiddleClickOptions.ui:91
 msgid "Quit"
 msgstr ""
 
-#: src/appIcons.js:1946
+#: src/appIcons.js:1945
 #, javascript-format
 msgid "Quit %d Window"
 msgid_plural "Quit %d Windows"
@@ -1740,63 +1747,63 @@ msgstr[0] ""
 msgstr[1] ""
 msgstr[2] ""
 
-#: src/appIcons.js:2268
+#: src/appIcons.js:2266
 msgid "Power options"
 msgstr ""
 
-#: src/appIcons.js:2273
+#: src/appIcons.js:2271
 msgid "Event logs"
 msgstr ""
 
-#: src/appIcons.js:2278
+#: src/appIcons.js:2276
 msgid "System"
 msgstr ""
 
-#: src/appIcons.js:2283
+#: src/appIcons.js:2281
 msgid "Device Management"
 msgstr ""
 
-#: src/appIcons.js:2288
+#: src/appIcons.js:2286
 msgid "Disk Management"
 msgstr ""
 
-#: src/appIcons.js:2319
+#: src/appIcons.js:2317
 msgid "Unlock taskbar"
 msgstr ""
 
-#: src/appIcons.js:2320
+#: src/appIcons.js:2318
 msgid "Lock taskbar"
 msgstr ""
 
-#: src/appIcons.js:2330
+#: src/appIcons.js:2328
 msgid "Gnome Settings"
 msgstr ""
 
-#: src/appIcons.js:2334
+#: src/appIcons.js:2332
 msgid "Dash to Panel Settings"
 msgstr ""
 
-#: src/appIcons.js:2341
+#: src/appIcons.js:2339
 msgid "Restore Windows"
 msgstr ""
 
-#: src/appIcons.js:2342
+#: src/appIcons.js:2340
 msgid "Show Desktop"
 msgstr ""
 
-#: src/extension.js:91
+#: src/extension.js:92
 msgid "Dash to Panel has been updated!"
 msgstr ""
 
-#: src/extension.js:92
+#: src/extension.js:93
 msgid "You are now running version"
 msgstr ""
 
-#: src/extension.js:98
+#: src/extension.js:99
 msgid "See what's new"
 msgstr ""
 
-#: src/panel.js:228
+#: src/panel.js:232
 msgid "Top Bar"
 msgstr ""
 
@@ -2050,7 +2057,7 @@ msgstr ""
 msgid "Import settings"
 msgstr ""
 
-#: src/windowPreview.js:1155
+#: src/windowPreview.js:1163
 msgid "Move to current Workspace"
 msgstr ""
 
